@@ -293,7 +293,7 @@
 </g>
 <g opacity="0" transform="scale(.8)">
 <circle cx="564" cy="355" r="2.5" fill="#cc0000"/>
-<text x="574" y="358" fill="#e0c0c0" font-size="12.5">AWS & Google Cloud — Generative AI</text>
+<text x="574" y="358" fill="#e0c0c0" font-size="12.5">AWS &amp; Google Cloud — Generative AI</text>
 <animate attributeName="opacity" from="0" to="1" begin="3.55s" dur="0.2s" fill="freeze"/>
 <animateTransform attributeName="transform" type="scale" from=".8" to="1" begin="3.55s" dur="0.2s" fill="freeze"/>
 </g>
