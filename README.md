@@ -1,15 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/banner.png" width="100%" alt="M S VISHAAL"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/profile-combined-dark.svg">
+  <img alt="M S Vishaal" src="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/profile-combined-light.svg">
+</picture>
 
 <br/>
 
 <div align="center">
-
-# `< M S VISHAAL />`
-### Engineer who writes. Writer who engineers.
-
-*AI & Data Science · Saveetha School of Engineering, SIMATS*
 
 [![Portfolio](https://img.shields.io/badge/🎬_PORTFOLIO-cc0000?style=for-the-badge)](https://itsmsvhere.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge)](https://linkedin.com/in/itsmsvhere)
@@ -21,48 +17,27 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=itsmsvhere&show_icons=true&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=ffffff&bg_color=0d0d0d&count_private=true&rank_icon=github"/>
-
-### 🎬 THE OPERATOR
-
-```bash
-$ whoami
-> M S Vishaal — 2nd Year, AI & DS, SIMATS
-
-$ cat identity.txt
-> By day  : ML Engineer, system architect, bug hunter
-> By night : Screenwriter, novelist, world builder
-> Always  : Shipping things nobody asked for
-
-$ cat stats.json
-> CGPA   : 8.61 | SGPA : 9.0 (↑ upward)
-> Ships  : 8 projects and counting
-> Status : 🔴 OPEN TO WORK
-```
-
-<br clear="right"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/info-card-dark.svg">
+  <img alt="Status" src="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/info-card-light.svg" width="100%">
+</picture>
 
 ---
 
-### ⚡ WHAT I'VE SHIPPED
+### 🚀 SHIPPED
 
 > *Every line. Every frame. Every system. Built from scratch.*
 
-🛡️ **[AuraSafe](https://github.com/itsmsvhere/AuraSafe)** — Local AI safety engine. Real-time content moderation. No cloud. No trackers. Chrome Extension + Python Flask + SQLite. **It watches so you don't have to.**
-
-🎮 **[Silent Verdict](https://github.com/itsmsvhere/SilentVerdict-2D-Noir-Investigation-Game-in-C-SFML)** — Fully playable 2D noir murder mystery. 6 independent systems. Built in **24 hours**. C++17 + SFML. **Silence lies. Evidence speaks.**
-
-🧠 **[EEG Signal Filtering](https://github.com/itsmsvhere/Biomedical-Signal-Filtering-in-EEG-Analysis)** — Raw brain data → classified frequency bands. FFT pipeline. Clinical PDF reports. Python + SciPy. **Brain waves don't lie.**
-
-🚦 **[SmartTraffic](https://github.com/itsmsvhere/SmartTraffic-Flow-Predictor-)** — ML-powered congestion forecasting. Locally Weighted Regression. Real-time dashboard. **Traffic has a pattern. I found it.**
-
-📊 **[Manufacturing F-Test](https://github.com/itsmsvhere/Manufacturing-Quality-Comparison-System-Using-F-Test)** — Statistical quality control. F-Test hypothesis testing at α=0.05. Executive PDF reports. **Numbers don't lie either.**
-
-🌐 **[Portfolio](https://github.com/itsmsvhere/itsmsvhere.github.io)** — Cinematic dual-identity experience. Pure HTML/CSS/JS. Zero frameworks. GSAP. **There's something hidden inside.**
-
-🎓 **[College DBMS](https://github.com/itsmsvhere/College-Management-System-DBMS)** — Role-based college portal. MySQL + QR enrollment + real-time seats. Python + Tkinter. **Systems run institutions.**
-
-⚙️ **[Algorithm Visualizer](https://github.com/itsmsvhere/Algorithm-Performance-Visualizer)** — Watch sorting algorithms compete in real time. **May the fastest algorithm win.**
+| Project | What it is | Stack |
+|---|---|---|
+| 🛡️ **[AuraSafe](https://github.com/itsmsvhere/AuraSafe)** | Local AI safety engine — real-time content moderation, multilingual NLP, analytics dashboard | Python · Flask · SQLite · Chrome Extension |
+| 🎮 **[Silent Verdict](https://github.com/itsmsvhere/SilentVerdict-2D-Noir-Investigation-Game-in-C-SFML)** | Fully playable 2D noir murder mystery — built in 24 hours | C++17 · SFML · OOP |
+| 🧠 **[EEG Signal Filtering](https://github.com/itsmsvhere/Biomedical-Signal-Filtering-in-EEG-Analysis)** | Biomedical desktop app — FFT pipeline, brain wave classification, PDF reports | Python · SciPy · NumPy · ReportLab |
+| 🚦 **[SmartTraffic](https://github.com/itsmsvhere/SmartTraffic-Flow-Predictor-)** | ML traffic prediction dashboard — Locally Weighted Regression | Python · NumPy · Matplotlib |
+| 📊 **[Manufacturing F-Test](https://github.com/itsmsvhere/Manufacturing-Quality-Comparison-System-Using-F-Test)** | F-Test statistical analysis platform — hypothesis testing, PDF reports | Python · SciPy · Pandas |
+| 🌐 **[Portfolio](https://github.com/itsmsvhere/itsmsvhere.github.io)** | Cinematic dual-identity portfolio — pure HTML/CSS/JS, GSAP, zero frameworks | HTML · CSS · JS · GSAP |
+| 🎓 **[College DBMS](https://github.com/itsmsvhere/College-Management-System-DBMS)** | Role-based college portal — MySQL backend, QR enrollment, real-time seats | Python · MySQL · Tkinter |
+| ⚙️ **[Algorithm Visualizer](https://github.com/itsmsvhere/Algorithm-Performance-Visualizer)** | Real-time sorting algorithm performance visualizer | Python · Matplotlib |
 
 ---
 
@@ -147,12 +122,7 @@ $ cat stats.json
 
 ---
 
-<div align="center">
-
-*// SYSTEM OPERATIONAL //*
-
-**`ENGINEER BY LOGIC. BUILDER BY NATURE. STORYTELLER BY INSTINCT.`**
-
-*Find what's hidden → [itsmsvhere.github.io](https://itsmsvhere.github.io)*
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/thank-you-laptop.svg">
+  <img alt="Thanks for visiting" src="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/thank-you-laptop.svg" width="100%">
+</picture>
