@@ -13,6 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🎬_PORTFOLIO-cc0000?style=for-the-badge)](https://itsmsvhere.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge)](https://linkedin.com/in/itsmsvhere)
+[![Medium](https://img.shields.io/badge/✍️_MEDIUM-0d0d0d?style=for-the-badge&logo=medium&logoColor=white)](https://itsmsv21.medium.com)
 [![Email](https://img.shields.io/badge/📡_SIGNAL-cc0000?style=for-the-badge)](mailto:msvishaal631102@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=itsmsvhere&style=for-the-badge&color=cc0000&label=EYES+ON+THIS)](https://github.com/itsmsvhere)
 
@@ -100,6 +101,32 @@ $ cat stats.json
   <img src="https://streak-stats.demolab.com?user=itsmsvhere&theme=dark&hide_border=true&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&background=0d0d0d&dates=888888&stroke=cc0000&sideLabels=cc0000"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmsvhere&layout=compact&theme=dark&hide_border=true&title_color=cc0000&text_color=ffffff&bg_color=0d0d0d&langs_count=8"/>
+</div>
+
+---
+
+### 📊 DEVELOPER DASHBOARD
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmsvhere&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsmsvhere&theme=github_dark&utcOffset=5.5"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmsvhere&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmsvhere&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmsvhere&theme=react-dark&bg_color=0d0d0d&color=cc0000&line=cc0000&point=ffffff&area=true&area_color=cc0000&hide_border=true"/>
+</div>
+
+---
+
+### 🎨 3D CONTRIBUTION GRAPH
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph"/>
 </div>
 
 ---
