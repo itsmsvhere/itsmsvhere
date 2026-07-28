@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" role="img" aria-label="Thanks for Visiting">
+<defs>
+<style>
+:root{
+  --text:#1a0505;
+  --muted:#7a4040;
+  --accent:#a30000;
+}
+@media (prefers-color-scheme: dark){
+:root{
+  --text:#f5e8e8;
+  --muted:#c99;
+  --accent:#ff4d4d;
+}
+}
+text{font-family:Inter,"Segoe UI",Arial,sans-serif}
+.title{font-size:26px;font-weight:800;fill:url(#titleShimmer)}
+.quote{font-size:12.5px;font-style:italic;fill:var(--muted)}
+.cta{font-size:13px;font-weight:700;fill:var(--accent)}
+.url{font-size:11px;fill:var(--muted)}
+</style>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="titleShimmer" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"  stop-color="var(--text)"/>
+  <stop offset="42%" stop-color="var(--text)"/>
+  <stop offset="50%" stop-color="var(--accent)"/>
+  <stop offset="58%" stop-color="var(--text)"/>
+  <stop offset="100%" stop-color="var(--text)"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1.4 0;-1 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+<line x1="10" y1="18" x2="410" y2="18" stroke="var(--accent)" stroke-width="2" opacity=".25">
+<animate attributeName="opacity" values=".15;.55;.15" dur="3s" repeatCount="indefinite"/>
+</line>
+<circle cy="18" r="3" fill="var(--accent)" filter="url(#glow)">
+<animate attributeName="cx" values="10;410;10" dur="8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.15;.85;1" dur="8s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(210 18)">
+<g><animateTransform attributeName="transform" type="rotate" values="0;12;0;-12;0" dur="6s" repeatCount="indefinite"/>
+<path d="M0-7L2-2L7 0L2 2L0 7L-2 2L-7 0L-2-2Z" fill="var(--accent)" filter="url(#glow)">
+<animateTransform attributeName="transform" type="scale" values="1;1.35;1" dur="2.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".8;1;.8" dur="2.5s" repeatCount="indefinite"/>
+</path></g></g>
+<circle cx="40" cy="70" r="1.8" fill="var(--accent)" opacity=".4">
+<animate attributeName="cy" values="70;60;70" dur="5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="380" cy="220" r="1.8" fill="var(--accent)" opacity=".35">
+<animate attributeName="cy" values="220;210;220" dur="6s" repeatCount="indefinite"/>
+</circle>
+<circle cx="360" cy="55" r="1.4" fill="var(--accent)" opacity=".3">
+<animate attributeName="opacity" values=".2;.7;.2" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="60" cy="250" r="1.4" fill="var(--accent)" opacity=".3">
+<animate attributeName="opacity" values=".7;.2;.7" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+<g transform="translate(0 0)">
+<text x="205" y="60" text-anchor="middle" class="title">Thanks for Visiting!</text>
+<text x="205" y="100" text-anchor="middle" class="quote">"Two minds. One operator. One story worth telling."</text>
+<g><animate attributeName="opacity" values=".82;1;.82" dur="4s" repeatCount="indefinite"/>
+<text x="205" y="140" text-anchor="middle" class="cta">Open to ML Engineering • SDE Internships</text>
+</g>
+<text x="205" y="172" text-anchor="middle" class="url">itsmsvhere.github.io</text>
+<line x1="0" y1="334" x2="400" y2="334" stroke="var(--accent)" stroke-width="2" opacity=".25">
+<animate attributeName="opacity" values=".15;.45;.15" dur="3s" repeatCount="indefinite"/>
+</line>
+<circle cy="334" r="3" fill="var(--accent)" filter="url(#glow)">
+<animate attributeName="cx" values="400;0;400" dur="9s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;.85;.85;0" keyTimes="0;.15;.85;1" dur="9s" repeatCount="indefinite"/>
+</circle>
+</g>
+</svg>
