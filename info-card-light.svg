@@ -18,6 +18,6 @@
 <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
 </circle>
 <text x="50" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" letter-spacing="0.4" fill="#8a0000">OPEN TO WORK</text>
-<text x="312" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#6a3030">CGPA 8.61 · UPWARD TREND</text>
+<text x="312" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#6a3030">CGPA 8.59 · UPWARD TREND</text>
 <text x="596" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#7a5050">AI &amp; DS · SIMATS · 2028</text>
 </svg>
