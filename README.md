@@ -24,24 +24,24 @@
 
 ---
 
-### 🚀 SHIPPED
+###  SHIPPED
 
 > *Every line. Every frame. Every system. Built from scratch.*
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🛡️ **[AuraSafe](https://github.com/itsmsvhere/AuraSafe)** | Local AI safety engine — real-time content moderation, multilingual NLP, analytics dashboard | Python · Flask · SQLite · Chrome Extension |
-| 🎮 **[Silent Verdict](https://github.com/itsmsvhere/SilentVerdict-2D-Noir-Investigation-Game-in-C-SFML)** | Fully playable 2D noir murder mystery — built in 24 hours | C++17 · SFML · OOP |
-| 🧠 **[EEG Signal Filtering](https://github.com/itsmsvhere/Biomedical-Signal-Filtering-in-EEG-Analysis)** | Biomedical desktop app — FFT pipeline, brain wave classification, PDF reports | Python · SciPy · NumPy · ReportLab |
-| 🚦 **[SmartTraffic](https://github.com/itsmsvhere/SmartTraffic-Flow-Predictor-)** | ML traffic prediction dashboard — Locally Weighted Regression | Python · NumPy · Matplotlib |
-| 📊 **[Manufacturing F-Test](https://github.com/itsmsvhere/Manufacturing-Quality-Comparison-System-Using-F-Test)** | F-Test statistical analysis platform — hypothesis testing, PDF reports | Python · SciPy · Pandas |
-| 🌐 **[Portfolio](https://github.com/itsmsvhere/itsmsvhere.github.io)** | Cinematic dual-identity portfolio — pure HTML/CSS/JS, GSAP, zero frameworks | HTML · CSS · JS · GSAP |
-| 🎓 **[College DBMS](https://github.com/itsmsvhere/College-Management-System-DBMS)** | Role-based college portal — MySQL backend, QR enrollment, real-time seats | Python · MySQL · Tkinter |
-| ⚙️ **[Algorithm Visualizer](https://github.com/itsmsvhere/Algorithm-Performance-Visualizer)** | Real-time sorting algorithm performance visualizer | Python · Matplotlib |
+|  **[AuraSafe](https://github.com/itsmsvhere/AuraSafe)** | Local AI safety engine — real-time content moderation, multilingual NLP, analytics dashboard | Python · Flask · SQLite · Chrome Extension |
+|  **[Silent Verdict](https://github.com/itsmsvhere/SilentVerdict-2D-Noir-Investigation-Game-in-C-SFML)** | Fully playable 2D noir murder mystery — built in 24 hours | C++17 · SFML · OOP |
+|  **[EEG Signal Filtering](https://github.com/itsmsvhere/Biomedical-Signal-Filtering-in-EEG-Analysis)** | Biomedical desktop app — FFT pipeline, brain wave classification, PDF reports | Python · SciPy · NumPy · ReportLab |
+|  **[SmartTraffic](https://github.com/itsmsvhere/SmartTraffic-Flow-Predictor-)** | ML traffic prediction dashboard — Locally Weighted Regression | Python · NumPy · Matplotlib |
+|  **[Manufacturing F-Test](https://github.com/itsmsvhere/Manufacturing-Quality-Comparison-System-Using-F-Test)** | F-Test statistical analysis platform — hypothesis testing, PDF reports | Python · SciPy · Pandas |
+|  **[Portfolio](https://github.com/itsmsvhere/itsmsvhere.github.io)** | Cinematic dual-identity portfolio — pure HTML/CSS/JS, GSAP, zero frameworks | HTML · CSS · JS · GSAP |
+|  **[College DBMS](https://github.com/itsmsvhere/College-Management-System-DBMS)** | Role-based college portal — MySQL backend, QR enrollment, real-time seats | Python · MySQL · Tkinter |
+|  **[Algorithm Visualizer](https://github.com/itsmsvhere/Algorithm-Performance-Visualizer)** | Real-time sorting algorithm performance visualizer | Python · Matplotlib |
 
 ---
 
-### 🔫 ARSENAL
+###  ARSENAL
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-### 📡 SIGNAL STRENGTH
+###  SIGNAL STRENGTH
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=itsmsvhere&theme=dark&hide_border=true&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&background=0d0d0d&dates=888888&stroke=cc0000&sideLabels=cc0000"/>
@@ -80,7 +80,7 @@
 
 ---
 
-### 📊 DEVELOPER DASHBOARD
+###  DEVELOPER DASHBOARD
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmsvhere&theme=github_dark"/>
@@ -98,7 +98,7 @@
 
 ---
 
-### 🎨 3D CONTRIBUTION GRAPH
+###  3D CONTRIBUTION GRAPH
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsmsvhere/itsmsvhere/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph"/>
@@ -106,7 +106,7 @@
 
 ---
 
-### 🎖️ CLEARANCE LEVEL
+###  CLEARANCE LEVEL
 
 ```
 ✅  Walmart USA          —  Advanced Software Engineering      (Forage)
